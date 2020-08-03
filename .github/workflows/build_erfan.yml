@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://getlink123.com/direct/FB2WemCmE3zE
+  ROM_URL: https://mde1.androidfilehost.com/dl/1iG65pimlc6ES3tNql2ArQ/1596508724/8889791610682877343/RUI_F07_Decrypt_Rmx1801-1807%40dahee1179.zip
   ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_AONLY: false
