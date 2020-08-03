@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mde1.androidfilehost.com/dl/1iG65pimlc6ES3tNql2ArQ/1596508724/8889791610682877343/RUI_F07_Decrypt_Rmx1801-1807%40dahee1179.zip
+  ROM_URL: https://api.aospextended.com/download/RMX1801/q_gapps/51ec33e251453d4b1ba96969b5ef7827a66a5a468f8c48687236762f44802525652097f059dcaf63ce9d597e2d4f233db806cc21
   ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_AONLY: false
